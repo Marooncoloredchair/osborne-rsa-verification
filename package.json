@@ -1,0 +1,35 @@
+{
+  "name": "osborne-rsa-verification",
+  "version": "1.0.0",
+  "description": "Mathematical verification tool for RSA-896 factorization breakthrough using Osborne++ v7",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "rsa",
+    "factorization",
+    "cryptography",
+    "mathematics",
+    "verification",
+    "osborne",
+    "breakthrough",
+    "quantum",
+    "hybrid-algorithms"
+  ],
+  "author": "Osborne Labs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/osborne-rsa-verification.git"
+  },
+  "homepage": "https://yourusername.github.io/osborne-rsa-verification",
+  "bugs": {
+    "url": "https://github.com/yourusername/osborne-rsa-verification/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
